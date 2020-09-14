@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599434907 source:d:\programming\c_c++\linkedlist\main.cpp
+	<bits/stdc++.h>
+	"List.h"
+
+1599433157 d:\programming\c_c++\linkedlist\list.h
+	<string>
+
+1599434454 source:d:\programming\c_c++\linkedlist\list.cpp
+	<bits/stdc++.h>
+	"List.h"
+
